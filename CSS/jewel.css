@@ -20,7 +20,7 @@ body {
 .header2{
     display: flex;
     align-items: center;
-    gap: 50px;
+    gap: 25px;
 }
 .head1 img{
     width: 238px;
@@ -28,7 +28,7 @@ body {
     object-fit: cover;
 }
 .head2 a{
-    margin: 15px;
+    margin: 10px;
     font-size: 17px;
     font-weight: 550;
     text-decoration: none;
@@ -51,7 +51,7 @@ body {
     font-weight: 600;
 }
 .head4{
-    font-size: 30px;
+    font-size: 28px;
 }
 .head4 a{
     margin: 10px;
@@ -1180,7 +1180,7 @@ gap: 30px;
     position: absolute;
     top: 0;
     background-color:white;
-    width: 500px; height: 800px;
+    width: 700px; height: 800px;
     margin-left: 500px;
     display: none;
     font-size: 23px;
@@ -1569,4 +1569,5 @@ footer hr{
     text-align: center;
     font-size: 20px;
     padding: 4px;
+
 }
